@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @kosta99999
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+kosta99999/kosta99999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+/clear {chanel} Categori and chanels
+/esc<
+FIELDTYPEDESCRIPTIONguildsnowflakeDiscord ID of the guild that received a vote.usersnowflakeDiscord ID of the user who voted.typestringThe type of the vote (should always be "upvote" except when using the test button it's "test").query?stringQuery string params found on the /servers/:ID/vote page. Example: ?a=1&b=2.
